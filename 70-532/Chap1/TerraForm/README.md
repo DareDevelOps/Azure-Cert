@@ -1,12 +1,12 @@
-# Terraform Configuration File for Azure VM 
+# Terraform Configuration File for Azure VM
 
 A simple VM Configuration for Azure
 
 ## Usage
 
-```
-$ terraform plan
-$ terraform apply
+```Terraform
+ terraform plan
+ terraform apply
 ```
 
 ## License
